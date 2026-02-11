@@ -1,1 +1,1 @@
-# wordpress-deploy-using-LAMP
+# Wordpress-deploy-using-LAMP
